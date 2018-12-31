@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "nombre": "leche de almendras",
+        "fecha_vencimiento": "30/11/2000",
+        "status": 0,
+        "tipo_producto": 1,
+        "nivel_id": 1
+    },
+    {
+        "id":2,
+        "nombre": "pollo radioactivo",
+        "fecha_vencimiento": "15/10/2040",
+        "status": 0,
+        "tipo_producto": 2,
+        "nivel_id": 2
+    },
+    {
+        "id":3,
+        "nombre": "tocineta",
+        "fecha_vencimiento": "13/01/2018",
+        "status": 0,
+        "tipo_producto": 1,
+        "nivel_id": 4
+    },
+    {
+        "id":4,
+        "nombre": "huevos",
+        "fecha_vencimiento": "20/11/2018",
+        "status": 0,
+        "tipo_producto": 3,
+        "nivel_id": 5
+    }
+]

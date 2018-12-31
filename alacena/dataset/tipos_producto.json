@@ -1,0 +1,15 @@
+[
+    {   
+        "id":1,
+        "nombre":"refrigerado"
+    },
+    {   
+        "id":2,
+        "nombre":"congelado"
+    },
+    {
+        "id":3,
+        "nombre":"norefrigerado"
+    }
+    
+]

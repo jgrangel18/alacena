@@ -1,0 +1,28 @@
+[
+    {   
+        "id":1,
+        "nombre":"lleno",
+        "color":"#08298A"
+    },
+    {   
+        "id":2,
+        "nombre":"alto",
+        "color":"#04B404"
+    },
+    {
+        "id":3,
+        "nombre":"medio",
+        "color":"#F7FE2E"
+    },
+    {
+        "id":4,
+        "nombre":"bajo",
+        "color":"#FE9A2E"
+    },
+    {
+        "id":5,
+        "nombre":"vacio",
+        "color":"#DF0101"
+    }
+    
+]
